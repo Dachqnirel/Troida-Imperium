@@ -175,6 +175,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "graph:Граф": false,
       "switcher:Меню быстрого перехода": false,
       "canvas:Создать новый холст": false,
@@ -183,7 +184,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "2f5c979b7d5db8c0",
+  "active": "06718e1d46ed232d",
   "lastOpenFiles": [
     "Добро пожаловать.md"
   ]
