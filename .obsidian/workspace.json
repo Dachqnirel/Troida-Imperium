@@ -11,14 +11,14 @@
             "id": "06718e1d46ed232d",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "База знаний.md",
-                "bFile": "База знаний.md",
-                "aRef": ""
+                "file": "База знаний.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: База знаний"
+              "icon": "lucide-file",
+              "title": "База знаний"
             }
           },
           {
@@ -55,6 +55,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "База знаний.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -64,7 +65,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для База знаний"
             }
           },
           {
@@ -90,12 +91,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "База знаний.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура База знаний"
             }
           }
         ]
@@ -111,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "База знаний.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки"
+              "title": "Исходящие ссылки из База знаний"
             }
           }
         ]
